@@ -100,3 +100,9 @@ for i in range(24):
 
 # Closing the turtle window
 turtle.done()
+
+#Created by Sharat S Unnithan
+#Blog:thehackersharat.blogspot.com
+#Instagram:https://www.instagram.com/gamer_sharat_/
+#Facebook:https://www.facebook.com/sharats.unnithan
+#Twitter(X):https://twitter.com/sharatsunnithan
